@@ -1,3 +1,6 @@
 # vitejs-vite-ytnddr
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-ytnddr)
+# 安装的依赖
+
+- ant-design-vue
+- axios
