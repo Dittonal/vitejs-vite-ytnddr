@@ -13,7 +13,7 @@ export default {
 
 <template>
 
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld />
 </template>
 
 <style scoped>
